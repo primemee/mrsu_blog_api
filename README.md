@@ -1,3 +1,4 @@
+
 # mrsu-blog-api
 
 ## Project setup
@@ -14,4 +15,3 @@ npm run dev
 ```
 npm run build
 ```
-
