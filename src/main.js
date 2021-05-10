@@ -6,7 +6,7 @@ const MysqlStore = require('koa-mysql-session');
 const koaStatic = require('koa-static')
 const path = require('path')
 const config = require('./config/default.js');
-const routers = require('./router.js')
+const routers = require('./router/router.js')
 const logs = require('./config/logConf.js')
 const {
 	catchHead,

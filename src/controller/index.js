@@ -10,11 +10,7 @@
   *
  */
 module.exports = {
-	...require('./c-artice.js'),
-	...require('./c-user.js'),
-	// ...require('./c-star.js'),
-	...require('./c-upload.js'),
-	...require('./c-file.js'),
-	...require('./c-music.js'),
-	// ...require('../test/test.js')
+	...require('./artice.js'),
+	...require('./user.js'),
+	...require('./upload.js'),
 };
